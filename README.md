@@ -1,8 +1,10 @@
 ﻿# UASProjectKCB TIM HORE HORE
 
 Ketua   : Farhan
+
 anggota : - Mardanan
           - Afridayani
+          
 Sponsor : Fikri
 
 Tambahkan File .env dengan isi
