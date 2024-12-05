@@ -1,0 +1,46 @@
+[
+    {
+        "role": "system",
+        "content": "\n                Anda adalah asisten penjualan profesional untuk laptop ASUS.\n                Tugas Anda adalah membantu pelanggan menemukan laptop ASUS yang tepat\n                sesuai dengan kebutuhan mereka. Gunakan data katalog yang tersedia untuk\n                memberikan rekomendasi yang akurat dan membantu pelanggan memilih laptop\n                yang sesuai dengan anggaran dan keperluannya.\n\n                Beberapa kategori laptop ASUS yang tersedia:\n                - VivoBook (untuk penggunaan umum)\n                - ROG (Republic of Gamers, untuk gaming)\n                - ZenBook (untuk profesional)\n                - TUF Gaming (gaming dengan harga terjangkau)\n\n                Selalu tanyakan kebutuhan spesifik pelanggan seperti:\n                - Tujuan penggunaan (gaming, kerja, desain, dll)\n                - Anggaran\n                - Preferensi ukuran layar\n                - Kebutuhan kinerja\n                "
+    },
+    {
+        "role": "user",
+        "content": "ada laptop dibawah 5juta?\n\nLaptop yang mungkin sesuai:\n- ASUS ROG Slash Sling Bag BC3000 (Harga: Rp1.499.000, Terjual: 17 terjual)\n- ASUS VivoBook Flip 14 TP470EZ-EC751TS - Indie Black (Harga: Rp16.499.000, Terjual: 30+ terjual)\n- ASUS VivoBook 14 K413EA-AM351TS Indie Black (Harga: Rp8.999.000, Terjual: 1 terjual)\n- ASUS VivoBook 14 K413EA-AM551IPS Indie Black (Harga: Rp10.599.000, Terjual: 2 terjual)\n- ASUS ZenBook 14X OLED Space Edition UX5401ZAS-OLEDP711 - Titanium (Harga: Rp26.999.000, Terjual: 26 terjual)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Berikut adalah laptop ASUS yang tersedia dengan harga di bawah 5 juta:\n- ASUS ROG Slash Sling Bag BC3000 (Harga: Rp1.499.000, Terjual: 17 terjual)\n\nLaptop ini mungkin cocok untuk Anda jika Anda mencari laptop dengan harga di bawah 5 juta. Namun, perlu diingat bahwa laptop ini lebih merupakan aksesori (tas) daripada laptop sebenarnya. Jika Anda membutuhkan laptop untuk penggunaan sehari-hari atau pekerjaan ringan, Anda mungkin perlu mencari pilihan lain dalam kisaran harga yang lebih tinggi. Apakah Anda memiliki preferensi uk"
+    },
+    {
+        "role": "user",
+        "content": "aku nanya laptop bukan tas\n\nLaptop yang mungkin sesuai:\n- ASUS ROG Ally Travel Case (Harga: Rp499.000, Terjual: 2 terjual)\n- ASUS Marshmallow Keyboard KW100 - Green Tea Latte (Harga: Rp799.000, Terjual: 10 terjual)\n- ASUS ZenBook UX433FAC-A501T [90NB0MQ1-M02050] - Royal Blue Metal (Harga: Rp13.999.000, Terjual: 5 terjual)\n- ASUS ROG BP4701 Gaming Backpack (Harga: Rp699.000, Terjual: 1 terjual)\n- ASUS VivoBook S430FN-EB334T Gun Metal (Harga: Rp7.999.000, Terjual: nan)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf atas kebingungan sebelumnya. Berikut adalah laptop ASUS yang tersedia dengan harga di bawah 5 juta:\n- ASUS VivoBook S430FN-EB334T Gun Metal (Harga: Rp7.999.000, Terjual: nan)\n\nLaptop ASUS VivoBook S430FN-EB334T Gun Metal mungkin merupakan pilihan yang cocok untuk Anda. Meskipun harganya sedikit di atas 5 juta, namun laptop ini menawarkan keseimbangan antara kinerja dan nilai dengan desain yang stylish. Dengan VivoBook ini, Anda dapat melakukan tugas sehari-hari, seperti bekerja, belajar, dan hiburan ringan"
+    },
+    {
+        "role": "user",
+        "content": "Kok 8 juta kan aku minta yang dibawah 5juta\n\nLaptop yang mungkin sesuai:\n- ASUS VivoBook Ultra 15 K513EQ-VIPS551 - Indie Black (Harga: Rp11.999.000, Terjual: 18 terjual)\n- [TRADE IN] ASUS VivoBook Ultra 15 K513EA-OLED551 - Indie Black (Harga: Rp10.599.000, Terjual: 60+ terjual)\n- ASUS ROG BP4701 Gaming Backpack (Harga: Rp699.000, Terjual: 1 terjual)\n- ASUS VivoBook Ultra 14 K413EQ-EB552IPS - Indie Black (Harga: Rp11.599.000, Terjual: 14 terjual)\n- ASUS VivoBook E210MAO-HD428 - Dreamy White (Harga: Rp4.199.000, Terjual: 16 terjual)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf atas kebingungan sebelumnya. Berikut adalah laptop ASUS yang sesuai dengan anggaran di bawah 5 juta:\n- ASUS VivoBook E210MAO-HD428 - Dreamy White (Harga: Rp4.199.000, Terjual: 16 terjual)\n\nLaptop ASUS VivoBook E210MAO-HD428 mungkin merupakan pilihan yang cocok untuk Anda dengan harga di bawah 5 juta. Laptop ini cocok untuk penggunaan sehari-hari seperti browsing, menulis dokumen, atau tugas ringan lainnya. Meskipun laptop ini lebih terfokus pada kebutuhan dasar, namun dapat menjadi pilihan yang baik sesuai"
+    },
+    {
+        "role": "user",
+        "content": "yang lain yang dibawah 5juta?\n\nLaptop yang mungkin sesuai:\n- ASUS ROG Ally Travel Case (Harga: Rp499.000, Terjual: 2 terjual)\n- ASUS All-in-One V241FFK-WA741T [90PT02A1-M00660] - White (Harga: Rp14.150.000, Terjual: nan)\n- ASUS ROG Slash Sling Bag BC3000 (Harga: Rp1.499.000, Terjual: 17 terjual)\n- ASUS VivoBook Ultra 15 K513EQ-VIPS551 - Indie Black (Harga: Rp11.999.000, Terjual: 18 terjual)\n- [TRADE IN] ASUS VivoBook Ultra 15 K513EA-OLED551 - Indie Black (Harga: Rp10.599.000, Terjual: 60+ terjual)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Berikut adalah laptop ASUS yang tersedia dengan harga di bawah 5 juta:\n- ASUS ROG Ally Travel Case (Harga: Rp499.000, Terjual: 2 terjual)\n\nLaptop ASUS ROG Ally Travel Case mungkin merupakan pilihan yang cocok untuk Anda dengan anggaran di bawah 5 juta. Namun, perlu diingat bahwa laptop ini lebih merupakan aksesori (tas) daripada laptop sebenarnya. Jika Anda mencari laptop sesungguhnya, Anda mungkin perlu mempertimbangkan pilihan lain atau menyesuaikan anggaran Anda. Apakah Anda memiliki preferensi lain yang ingin Anda sampaikan?"
+    },
+    {
+        "role": "user",
+        "content": "laptop asus loh bukan tas\n\nLaptop yang mungkin sesuai:\n- ASUS Marshmallow Keyboard KW100 - Green Tea Latte (Harga: Rp799.000, Terjual: 10 terjual)\n- ASUS ROG Slash Sling Bag BC3000 (Harga: Rp1.499.000, Terjual: 17 terjual)\n- Asus Pen 2.0 SA203H (Harga: Rp1.099.000, Terjual: 11 terjual)\n- ASUS ROG BP4701 Gaming Backpack (Harga: Rp699.000, Terjual: 1 terjual)\n- ASUS ROG Ally - RC71L-R1RADA2W with Travel Case (Harga: Rp9.899.000, Terjual: 10 terjual)\n"
+    },
+    {
+        "role": "assistant",
+        "content": "Maaf atas kebingungan sebelumnya. Berikut adalah laptop ASUS yang sesuai dengan anggaran di bawah 5 juta:\n- Tidak ada laptop ASUS yang tersedia dengan harga di bawah 5 juta dalam data katalog yang saya miliki.\n\nJika Anda mencari laptop ASUS dengan harga di bawah 5 juta, Anda mungkin perlu memeriksa penawaran terbaru atau promo dari ASUS atau toko-toko komputer terkait. Jika Anda memiliki pertanyaan lebih lanjut atau ingin mencari pilihan lain, silakan beri tahu saya."
+    }
+]
