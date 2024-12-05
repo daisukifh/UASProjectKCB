@@ -1,10 +1,10 @@
 ﻿# UASProjectKCB TIM HORE HORE
 
-Ketua   : Farhan
+Ketua   : FARHAN PURWANTO MARULITUA (247056015)
 
-anggota : - Mardanan
-          - Afridayani
-          - Fikri
+anggota : - MardananAFRIDAYANI (247056004)
+          - FIKRI HANIF (247056016)
+          - MARDANAN FITRA (247056019)
           
 
 ganti file example.env.txt menjadi file .env
