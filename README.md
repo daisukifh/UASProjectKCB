@@ -2,7 +2,7 @@
 
 Ketua   : FARHAN PURWANTO MARULITUA (247056015)
 
-anggota : - MardananAFRIDAYANI (247056004)
+Anggota : - MardananAFRIDAYANI (247056004)
           - FIKRI HANIF (247056016)
           - MARDANAN FITRA (247056019)
           
